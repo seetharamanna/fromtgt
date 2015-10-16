@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jun 02 00:35:32 CDT 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014d-b2c4-8102-000000688d38 
+on database directory C:\local_install\PROMO_BI\storm-hive\metastore_db with class loader sun.misc.Launcher$AppClassLoader@8b819f 
+Loaded from file:/C:/Users/a025660/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_71-b14
+user.dir=C:\local_install\PROMO_BI\storm-hive
+os.name=Windows 7
+os.arch=x86
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

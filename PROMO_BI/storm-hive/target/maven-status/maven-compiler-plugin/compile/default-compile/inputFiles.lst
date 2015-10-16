@@ -1,0 +1,10 @@
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\bolt\HiveBolt.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\bolt\mapper\JsonRecordHiveMapper.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\bolt\mapper\HiveMapper.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\trident\HiveState.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\common\HiveWriter.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\trident\HiveUpdater.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\common\HiveUtils.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\trident\HiveStateFactory.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\common\HiveOptions.java
+C:\local_install\PROMO_BI\storm-hive\src\main\java\org\apache\storm\hive\bolt\mapper\DelimitedRecordHiveMapper.java

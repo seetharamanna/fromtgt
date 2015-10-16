@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PROMO_BI.iml" filepath="$PROJECT_DIR$/PROMO_BI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapreduce-sample/mapreduce-sample.iml" filepath="$PROJECT_DIR$/mapreduce-sample/mapreduce-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-hive/storm-hive.iml" filepath="$PROJECT_DIR$/storm-hive/storm-hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/storm-sample/storm-sample.iml" filepath="$PROJECT_DIR$/storm-sample/storm-sample.iml" />
+    </modules>
+  </component>
+</project>
